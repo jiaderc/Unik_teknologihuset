@@ -16,3 +16,8 @@ For å melde etter hjelp
 ```
 ./dumb.sh
 ```
+
+For å kjøre alarm
+```
+node alarm.js
+```
